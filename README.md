@@ -22,7 +22,7 @@ Dibuat untuk eksperimen kreatif & showcase teknologi AI generatif.
 Website ini di-host gratis via **GitHub Pages**.
 
 🔗 **Live Demo:**  
-[https://USERNAME.github.io/brawijaya-ai/](https://USERNAME.github.io/brawijaya-ai/)  
+[https://USERNAME.github.io/brawijaya-ai/](https://ferdybrawijaya.github.io/brawijaya-ai/)  
 (ganti `USERNAME` dengan username GitHub kamu)
 
 ---

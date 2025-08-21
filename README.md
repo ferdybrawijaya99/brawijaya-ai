@@ -22,7 +22,7 @@ Dibuat untuk eksperimen kreatif & showcase teknologi AI generatif.
 Website ini di-host gratis via **GitHub Pages**.
 
 🔗 **Live Demo:**  
-[https://ferdybrawijaya.github.io/brawijaya-ai/](https://ferdybrawijaya.github.io/brawijaya-ai/)  
+[https://ferdybrawijaya99.github.io/brawijaya-ai/](https://ferdybrawijaya99.github.io/brawijaya-ai/)  
 
 
 ---
@@ -30,4 +30,4 @@ Website ini di-host gratis via **GitHub Pages**.
 ## 📦 Cara Install Lokal
 1. Clone repo:
    ```bash
-   git clone https://github.com/ferdybrawijaya/brawijaya-ai.git
+   git clone https://github.com/ferdybrawijaya99/brawijaya-ai.git
